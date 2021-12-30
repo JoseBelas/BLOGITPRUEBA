@@ -4,3 +4,10 @@ body{
     font-family: "Arial";
 
 }
+
+#container
+{
+    width: auto;
+    color: black;
+     
+}
